@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "245062265084",
+    "firebase_url": "https://chat-eaba5.firebaseio.com",
+    "project_id": "chat-eaba5",
+    "storage_bucket": "chat-eaba5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245062265084:android:9da9d72276f447931dcf79",
+        "android_client_info": {
+          "package_name": "com.example.chit_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245062265084-8b316olt27q48ts2mbcn6u4ott5n4j1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn7k7elsITPuODpkfoDLZMMYQuchgt6_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245062265084-8b316olt27q48ts2mbcn6u4ott5n4j1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

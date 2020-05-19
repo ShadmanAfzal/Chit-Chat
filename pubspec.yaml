@@ -1,0 +1,58 @@
+name: chit_chat
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  http: ^0.12.1
+  material_design_icons_flutter: ^4.0.5145
+  email_validator: ^1.0.4
+  firebase_auth: ^0.16.0
+  cached_network_image: ^2.2.0+1
+  cloud_firestore: ^0.13.5
+  image_picker: ^0.6.6+1
+  firebase_storage: ^3.1.5
+  flutter_phoenix: ^0.1.0
+  intl: ^0.16.1
+  flutter_spinkit: ^3.1.0
+  image_downloader: ^0.19.2
+  bubble: ^1.1.9+1
+  password_strength: ^0.1.2
+  image_cropper: ^1.2.1
+  shared_preferences:
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
+  assets:
+   - images/circular.png
+   - images/background.jpg
+  fonts:
+    - family: Lora
+      fonts:
+        - asset: fonts/Lora-Italic.ttf
+        - asset: fonts/Lora-Medium.ttf
+          style: italic
+    - family: Satisfy
+      fonts:
+        - asset: fonts/Satisfy-Regular.ttf
+    - family: Jost
+      fonts:
+        - asset: fonts/Jost-Regular.ttf
+    - family: Rosemary
+      fonts:
+        - asset: fonts/DroidSans.ttf
+     
